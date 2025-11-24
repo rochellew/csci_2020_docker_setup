@@ -1,0 +1,227 @@
+name,first_name,last_name,species,alignment,status,team_affiliation
+Human Torch,Jim,Hammond,Android,Hero,Active,Avengers
+Captain America,Steve,Rogers,Human,Hero,Active,Avengers
+Mr. Fantastic,Reed,Richards,Human,Hero,Active,Fantastic Four
+Invisible Woman,Sue,Storm,Human,Hero,Active,Fantastic Four
+Human Torch,Johnny,Storm,Human,Hero,Active,Fantastic Four
+The Thing,Ben,Grimm,Human,Hero,Active,Fantastic Four
+Hulk,Bruce,Banner,Human,Anti-Hero,Active,Avengers
+Thor,Thor,Odinson,Asgardian,Hero,Active,Avengers
+Spider-Man,Peter,Parker,Human,Hero,Active,Avengers
+Iron Man,Tony,Stark,Human,Hero,Active,Avengers
+Wasp,Janet,Van Dyne,Human,Hero,Active,Avengers
+Ant-Man,Hank,Pym,Human,Hero,Active,Avengers
+Professor X,Charles,Xavier,Mutant,Hero,Active,X-Men
+Cyclops,Scott,Summers,Mutant,Hero,Active,X-Men
+Marvel Girl,Jean,Grey,Mutant,Hero,Active,X-Men
+Beast,Hank,McCoy,Mutant,Hero,Active,X-Men
+Iceman,Bobby,Drake,Mutant,Hero,Active,X-Men
+Angel,Warren,Worthington,Mutant,Hero,Active,X-Men
+Hawkeye,Clint,Barton,Human,Hero,Active,Avengers
+Quicksilver,Pietro,Maximoff,Mutant,Anti-Hero,Active,Avengers
+Scarlet Witch,Wanda,Maximoff,Mutant,Hero,Active,Avengers
+Daredevil,Matt,Murdock,Human,Hero,Active,Defenders
+Nick Fury,Nick,Fury,Human,Hero,Active,SHIELD
+Black Widow,Natasha,Romanoff,Human,Hero,Active,Avengers
+Black Panther,T'Challa,,Human,Hero,Active,Avengers
+Vision,,,Android,Hero,Active,Avengers
+Doctor Strange,Stephen,Strange,Human,Hero,Active,Defenders
+Loki,Loki,Laufeyson,Frost Giant,Villain,Active,
+Magneto,Erik,Lehnsherr,Mutant,Anti-Hero,Active,Brotherhood
+Mystique,Raven,Darkholme,Mutant,Villain,Active,Brotherhood
+Wolverine,Logan,Howlett,Mutant,Anti-Hero,Active,X-Men
+Storm,Ororo,Munroe,Mutant,Hero,Active,X-Men
+Colossus,Piotr,Rasputin,Mutant,Hero,Active,X-Men
+Nightcrawler,Kurt,Wagner,Mutant,Hero,Active,X-Men
+Banshee,Sean,Cassidy,Mutant,Hero,Active,X-Men
+Sunfire,Shiro,Yoshida,Mutant,Hero,Active,X-Men
+Thunderbird,John,Proudstar,Mutant,Hero,Deceased,X-Men
+Sabretooth,Victor,Creed,Mutant,Villain,Active,
+Rogue,Anna,Marie,Mutant,Hero,Active,X-Men
+Emma Frost,Emma,Frost,Mutant,Anti-Hero,Active,X-Men
+Shadowcat,Kitty,Pryde,Mutant,Hero,Active,X-Men
+Dazzler,Alison,Blaire,Mutant,Hero,Active,X-Men
+Gambit,Remy,LeBeau,Mutant,Anti-Hero,Active,X-Men
+Jubilee,Jubilation,Lee,Mutant,Hero,Active,X-Men
+Cable,Nathan,Summers,Mutant,Anti-Hero,Active,X-Force
+Deadpool,Wade,Wilson,Human,Anti-Hero,Active,X-Force
+Psylocke,Betsy,Braddock,Mutant,Hero,Active,X-Men
+Bishop,Lucas,Bishop,Mutant,Hero,Active,X-Men
+Forge,,,Mutant,Hero,Active,X-Men
+Apocalypse,En Sabah,Nur,Mutant,Villain,Active,
+Cannonball,Sam,Guthrie,Mutant,Hero,Active,X-Men
+Magma,Amara,Aquilla,Mutant,Hero,Active,New Mutants
+Magik,Illyana,Rasputin,Mutant,Hero,Active,X-Men
+Sunspot,Roberto,Da Costa,Mutant,Hero,Active,New Mutants
+Wolfsbane,Rahne,Sinclair,Mutant,Hero,Active,New Mutants
+Warlock,,,Alien,Hero,Active,New Mutants
+Mirage,Danielle,Moonstar,Mutant,Hero,Active,New Mutants
+Cypher,Doug,Ramsey,Mutant,Hero,Active,New Mutants
+Legion,David,Haller,Mutant,Anti-Hero,Active,
+Beta Ray Bill,,,Alien,Hero,Active,
+Venom,Eddie,Brock,Symbiote,Anti-Hero,Active,
+Carnage,Cletus,Kasady,Symbiote,Villain,Active,
+She-Hulk,Jennifer,Walters,Human,Hero,Active,Avengers
+War Machine,James,Rhodes,Human,Hero,Active,Avengers
+Falcon,Sam,Wilson,Human,Hero,Active,Avengers
+Winter Soldier,Bucky,Barnes,Human,Anti-Hero,Active,Avengers
+Black Bolt,Blackagar,Boltagon,Inhuman,Hero,Active,Inhumans
+Medusa,Medusalith,Boltagon,Inhuman,Hero,Active,Inhumans
+Crystal,Crystalia,Amaquelin,Inhuman,Hero,Active,Inhumans
+Gorgon,Gorgon,Petragon,Inhuman,Hero,Active,Inhumans
+Karnak,,,Inhuman,Hero,Active,Inhumans
+Triton,,,Inhuman,Hero,Active,Inhumans
+Lockjaw,,,Inhuman,Hero,Active,Inhumans
+Silver Surfer,Norrin,Radd,Alien,Hero,Active,
+Galactus,,,Cosmic Entity,Neutral,Active,
+Doctor Doom,Victor,Von Doom,Human,Villain,Active,
+Red Skull,Johann,Schmidt,Human,Villain,Active,
+Green Goblin,Norman,Osborn,Human,Villain,Active,
+Doctor Octopus,Otto,Octavius,Human,Villain,Active,
+Viper,Ophelia,Sarkissian,Human,Villain,Active,
+Kingpin,Wilson,Fisk,Human,Villain,Active,
+Bullseye,Lester,,Human,Villain,Active,
+Elektra,Elektra,Natchios,Human,Anti-Hero,Active,
+Punisher,Frank,Castle,Human,Anti-Hero,Active,
+Ghost Rider,Johnny,Blaze,Human,Anti-Hero,Active,
+Blade,Eric,Brooks,Vampire,Hero,Active,
+Morbius,Michael,Morbius,Vampire,Anti-Hero,Active,
+Man-Thing,Ted,Sallis,Monster,Neutral,Active,
+Moon Knight,Marc,Spector,Human,Hero,Active,
+Shang-Chi,Shang-Chi,,Human,Hero,Active,
+Iron Fist,Danny,Rand,Human,Hero,Active,Defenders
+Luke Cage,Carl,Lucas,Human,Hero,Active,Defenders
+Jessica Jones,Jessica,Jones,Human,Hero,Active,Defenders
+Star-Lord,Peter,Quill,Human,Hero,Active,Guardians of the Galaxy
+Gamora,Gamora,,Alien,Hero,Active,Guardians of the Galaxy
+Drax,Arthur,Douglas,Alien,Hero,Active,Guardians of the Galaxy
+Rocket Raccoon,Rocket,,Alien,Hero,Active,Guardians of the Galaxy
+Groot,,,Alien,Hero,Active,Guardians of the Galaxy
+Mantis,,,Alien,Hero,Active,Guardians of the Galaxy
+Adam Warlock,,,Artificial Being,Hero,Active,Guardians of the Galaxy
+Nova,Richard,Rider,Human,Hero,Active,
+Thanos,,,Eternal,Villain,Active,
+Ronan,,,Kree,Villain,Active,
+Ultron,,,Android,Villain,Active,
+Kang,Nathaniel,Richards,Human,Villain,Active,
+Taskmaster,Tony,Masters,Human,Villain,Active,
+Abomination,Emil,Blonsky,Human,Villain,Active,
+Leader,Samuel,Sterns,Human,Villain,Active,
+Absorbing Man,Carl,Creel,Human,Villain,Active,
+Juggernaut,Cain,Marko,Human,Villain,Active,
+Sentinel,,,Robot,Villain,Active,
+Mr. Sinister,Nathaniel,Essex,Mutant,Villain,Active,
+Stryfe,,,Mutant,Villain,Active,
+Onslaught,,,Psychic Entity,Villain,Deceased,
+Sebastian Shaw,Sebastian,Shaw,Mutant,Villain,Active,Hellfire Club
+Selene,,,Mutant,Villain,Active,Hellfire Club
+Mastermind,Jason,Wyngarde,Mutant,Villain,Active,
+Pyro,St.,John,Mutant,Villain,Active,Brotherhood
+Avalanche,Dominic,Petros,Mutant,Villain,Active,Brotherhood
+Blob,Fred,Dukes,Mutant,Villain,Active,Brotherhood
+Toad,Mortimer,Toynbee,Mutant,Villain,Active,Brotherhood
+Scarlet Spider,Ben,Reilly,Human,Hero,Active,
+Miles Morales,Miles,Morales,Human,Hero,Active,
+Spider-Gwen,Gwen,Stacy,Human,Hero,Active,
+Spider-Woman,Jessica,Drew,Human,Hero,Active,Avengers
+Silk,Cindy,Moon,Human,Hero,Active,
+Captain Marvel,Carol,Danvers,Human,Hero,Active,Avengers
+Ms. Marvel,Kamala,Khan,Inhuman,Hero,Active,Champions
+America Chavez,America,Chavez,Alien,Hero,Active,Young Avengers
+Kate Bishop,Kate,Bishop,Human,Hero,Active,Young Avengers
+Wiccan,Billy,Kaplan,Human,Hero,Active,Young Avengers
+Hulkling,Teddy,Altman,Alien,Hero,Active,Young Avengers
+Speed,Tommy,Shepherd,Human,Hero,Active,Young Avengers
+Patriot,Eli,Bradley,Human,Hero,Active,Young Avengers
+Stature,Cassie,Lang,Human,Hero,Active,Young Avengers
+Viv Vision,,,Android,Hero,Active,Champions
+Ironheart,Riri,Williams,Human,Hero,Active,Champions
+Nova,Sam,Alexander,Human,Hero,Active,Champions
+Snowguard,Amka,Aliyak,Inhuman,Hero,Active,Champions
+Locust,Fernanda,Rodriguez,Inhuman,Hero,Active,Champions
+Red Dagger,Kareem,,Human,Hero,Active,Champions
+Squirrel Girl,Doreen,Green,Human,Hero,Active,
+Mockingbird,Bobbi,Morse,Human,Hero,Active,Avengers
+Tigra,Greer,Nelson,Human,Hero,Active,Avengers
+Sentry,Robert,Reynolds,Human,Hero,Active,Avengers
+Wonder Man,Simon,Williams,Human,Hero,Active,Avengers
+Hercules,,,Olympian,Hero,Active,Avengers
+Ares,,,Olympian,Anti-Hero,Active,Avengers
+Black Knight,Dane,Whitman,Human,Hero,Active,Avengers
+Spectrum,Monica,Rambeau,Human,Hero,Active,Avengers
+Blue Marvel,Adam,Brashear,Human,Hero,Active,Avengers
+Valkyrie,Brunnhilde,,Asgardian,Hero,Active,Avengers
+Jane Foster,Jane,Foster,Human,Hero,Active,Avengers
+Sif,,,Asgardian,Hero,Active,
+Heimdall,,,Asgardian,Hero,Active,
+Warriors Three,Fandral,,Asgardian,Hero,Active,
+Warriors Three,Hogun,,Asgardian,Hero,Active,
+Warriors Three,Volstagg,,Asgardian,Hero,Active,
+Enchantress,Amora,,Asgardian,Villain,Active,
+Executioner,Skurge,,Asgardian,Villain,Active,
+Hela,,,Asgardian,Villain,Active,
+Surtur,,,Fire Demon,Villain,Active,
+Malekith,,,Dark Elf,Villain,Active,
+Prowler,Hobie,Brown,Human,Anti-Hero,Active,
+Shocker,Herman,Schultz,Human,Villain,Active,
+Vulture,Adrian,Toomes,Human,Villain,Active,
+Sandman,Flint,Marko,Human,Villain,Active,
+Rhino,Aleksei,Sytsevich,Human,Villain,Active,
+Mysterio,Quentin,Beck,Human,Villain,Active,
+Kraven,Sergei,Kravinoff,Human,Villain,Active,
+Lizard,Curt,Connors,Human,Villain,Active,
+Hobgoblin,Roderick,Kingsley,Human,Villain,Active,
+Electro,Max,Dillon,Human,Villain,Active,
+Molten Man,Mark,Raxton,Human,Villain,Active,
+Hydro-Man,Morris,Bench,Human,Villain,Active,
+Doppelganger,,,Demon,Villain,Active,
+Morlun,,,Inheritor,Villain,Active,
+X-23,Laura,Kinney,Mutant,Hero,Active,X-Men
+Domino,Neena,Thurman,Mutant,Anti-Hero,Active,X-Force
+Warpath,James,Proudstar,Mutant,Hero,Active,X-Force
+Shatterstar,Gaveedra-Seven,,Alien,Hero,Active,X-Force
+Rictor,Julio,Richter,Mutant,Hero,Active,X-Force
+Boom-Boom,Tabitha,Smith,Mutant,Hero,Active,X-Force
+Feral,Maria,Callasantos,Mutant,Anti-Hero,Active,X-Force
+Siryn,Theresa,Cassidy,Mutant,Hero,Active,X-Force
+Multiple Man,Jamie,Madrox,Mutant,Hero,Active,X-Factor
+Polaris,Lorna,Dane,Mutant,Hero,Active,X-Factor
+Havok,Alex,Summers,Mutant,Hero,Active,X-Factor
+Strong Guy,Guido,Carosella,Mutant,Hero,Active,X-Factor
+Northstar,Jean-Paul,Beaubier,Mutant,Hero,Active,X-Men
+Aurora,Jeanne-Marie,Beaubier,Mutant,Hero,Active,Alpha Flight
+Sasquatch,Walter,Langkowski,Human,Hero,Active,Alpha Flight
+Shaman,Michael,Twoyoungmen,Human,Hero,Active,Alpha Flight
+Snowbird,Narya,,Goddess,Hero,Active,Alpha Flight
+Puck,Eugene,Judd,Human,Hero,Active,Alpha Flight
+Marrow,Sarah,,Mutant,Anti-Hero,Active,X-Men
+Maggott,Japheth,,Mutant,Hero,Active,X-Men
+Cecilia Reyes,Cecilia,Reyes,Mutant,Hero,Active,X-Men
+Armor,Hisako,Ichiki,Mutant,Hero,Active,X-Men
+Pixie,Megan,Gwynn,Mutant,Hero,Active,X-Men
+Mercury,Cessily,Kincaid,Mutant,Hero,Active,New Mutants
+Dust,Sooraya,Qadir,Mutant,Hero,Active,New Mutants
+Surge,Noriko,Ashida,Mutant,Hero,Active,New Mutants
+Hellion,Julian,Keller,Mutant,Hero,Active,New Mutants
+Elixir,Josh,Foley,Mutant,Hero,Active,New Mutants
+Prodigy,David,Alleyne,Mutant,Hero,Active,New Mutants
+Synch,Everett,Thomas,Mutant,Hero,Active,X-Men
+Skin,Angelo,Espinosa,Mutant,Hero,Deceased,Generation X
+Chamber,Jonothon,Starsmore,Mutant,Hero,Active,Generation X
+M,Monet,St. Croix,Mutant,Hero,Active,Generation X
+Husk,Paige,Guthrie,Mutant,Hero,Active,Generation X
+Amadeus Cho,Amadeus,Cho,Human,Hero,Active,Champions
+Red She-Hulk,Betty,Ross,Human,Anti-Hero,Active,
+Skaar,,,Alien,Anti-Hero,Active,
+A-Bomb,Rick,Jones,Human,Hero,Active,
+Nico Minoru,Nico,Minoru,Human,Hero,Active,Runaways
+Karolina Dean,Karolina,Dean,Alien,Hero,Active,Runaways
+Molly Hayes,Molly,Hayes,Mutant,Hero,Active,Runaways
+Chase Stein,Chase,Stein,Human,Hero,Active,Runaways
+Gert Yorkes,Gertrude,Yorkes,Human,Hero,Active,Runaways
+Old Lace,,,Dinosaur,Hero,Active,Runaways
+Victor Mancha,Victor,Mancha,Android,Hero,Active,Runaways
+Xavin,,,Skrull,Hero,Active,Runaways
+Cloak,Tyrone,Johnson,Human,Hero,Active,
+Dagger,Tandy,Bowen,Human,Hero,Active,
+White Tiger,Ava,Ayala,Human,Hero,Active,

@@ -1,0 +1,202 @@
+id,power_name,power_type
+1,Telepathy,Mental
+2,Telekinesis,Mental
+3,Optic Blast,Energy
+4,Healing Factor,Physical
+5,Super Strength,Physical
+6,Flight,Physical
+7,Weather Control,Energy
+8,Magnetism Control,Energy
+9,Ice Manipulation,Energy
+10,Shapeshifting,Physical
+11,Phasing,Physical
+12,Teleportation,Physical
+13,Organic Steel Form,Physical
+14,Energy Absorption,Physical
+15,Molecular Acceleration,Energy
+16,Enhanced Senses,Physical
+17,Adamantium Claws,Physical
+18,Super Agility,Physical
+19,Force Field Generation,Energy
+20,Elasticity,Physical
+21,Invisibility,Energy
+22,Pyrokinesis,Energy
+23,Sonic Scream,Energy
+24,Super Speed,Physical
+25,Time Travel,Energy
+26,Mystic Arts,Energy
+27,Cosmic Power,Energy
+28,Size Alteration,Physical
+29,Web Generation,Physical
+30,Wall Crawling,Physical
+31,Spider Sense,Mental
+32,Genius Intellect,Mental
+33,Master Martial Artist,Physical
+34,Master Archer,Physical
+35,Tactical Genius,Mental
+36,Powered Armor,Physical
+37,Illusion Casting,Mental
+38,Mind Control,Mental
+39,Empathy,Mental
+40,Precognition,Mental
+41,Electrokinesis,Energy
+42,Umbrakinesis,Energy
+43,Photokinesis,Energy
+44,Self Duplication,Physical
+45,Berserker Rage,Physical
+46,Psionic Blast,Energy
+47,Astral Projection,Mental
+48,Probability Manipulation,Mental
+49,Energy Projection,Energy
+50,Sonic Flight,Physical
+51,Enhanced Durability,Physical
+52,Immortality,Physical
+53,Dimensional Travel,Energy
+54,Portal Creation,Energy
+55,Soul Manipulation,Energy
+56,Necromancy,Energy
+57,Blood Magic,Energy
+58,Runic Magic,Energy
+59,Reality Warping,Energy
+60,Chaos Magic,Energy
+61,Hard Light Constructs,Energy
+62,Possession,Mental
+63,Technopathy,Mental
+64,Animal Communication,Mental
+65,Aquatic Adaptation,Physical
+66,Venom Secretion,Physical
+67,Acid Generation,Energy
+68,Chlorokinesis,Energy
+69,Geokinesis,Energy
+70,Density Control,Physical
+71,Intangibility,Physical
+72,Invulnerability,Physical
+73,Super Hearing,Physical
+74,X-Ray Vision,Physical
+75,Heat Vision,Energy
+76,Ice Breath,Energy
+77,Super Breath,Physical
+78,Regeneration,Physical
+79,Seismic Sense,Physical
+80,Psammokinesis,Energy
+81,Hydrokinesis,Energy
+82,Smoke Form,Physical
+83,Body Stretching,Physical
+84,Power Absorption,Physical
+85,Power Mimicry,Physical
+86,Reactive Adaptation,Physical
+87,Quantum Phasing,Energy
+88,Matter Manipulation,Energy
+89,Atomic Disintegration,Energy
+90,Concussive Force,Energy
+91,Optic Energy Beam,Energy
+92,Gamma Radiation,Energy
+93,Size Enhancement,Physical
+94,Thunder Summoning,Energy
+95,Lightning Generation,Energy
+96,Divine Power,Energy
+97,Death Touch,Energy
+98,Life Force Manipulation,Energy
+99,Bone Manipulation,Physical
+100,Wing Flight,Physical
+101,Kinetic Energy Control,Energy
+102,Explosive Touch,Energy
+103,Sonic Blast,Energy
+104,Lunar Enhancement,Physical
+105,Solar Energy Absorption,Energy
+106,Photon Blasts,Energy
+107,Binary Form,Energy
+108,Polymorph,Physical
+109,Pheromone Control,Physical
+110,Touch Absorption,Physical
+111,Power Negation,Energy
+112,Retractable Wings,Physical
+113,Infrared Vision,Physical
+114,Technomancy,Energy
+115,Cybernetic Enhancement,Physical
+116,Blaster Weaponry,Physical
+117,Energy Shield,Energy
+118,Repulsor Rays,Energy
+119,Unibeam,Energy
+120,Symbiote Bond,Physical
+121,Webbing Generation,Physical
+122,Camouflage,Physical
+123,Sandform,Physical
+124,Hydroform,Physical
+125,Electric Touch,Energy
+126,Echolocation,Mental
+127,Demon Transformation,Physical
+128,Hellfire Manipulation,Energy
+129,Penance Stare,Mental
+130,Vampirism,Physical
+131,Blade Mastery,Physical
+132,Serum Enhancement,Physical
+133,Vibranium Suit,Physical
+134,Tactical Shield,Physical
+135,Chi Manipulation,Energy
+136,Iron Fist,Energy
+137,Magic Spells,Energy
+138,Cloak of Levitation,Physical
+139,Eye of Agammoto,Energy
+140,Mirror Dimension,Energy
+141,Eldritch Magic,Energy
+142,Super Soldier Serum,Physical
+143,Electromagnetic Vision,Mental
+144,Metal Wings,Physical
+145,Redwing Control,Mental
+146,EXO-7 Falcon,Physical
+147,Bionic Arm,Physical
+148,Cryogenic Preservation,Physical
+149,Quasi-Sonic Scream,Energy
+150,Electron Cloud,Energy
+151,Crystal Generation,Energy
+152,Seismic Wave,Energy
+153,Terrigen Mist,Energy
+154,Vocal Destruction,Energy
+155,Prehensile Hair,Physical
+156,Elemental Transmutation,Energy
+157,Energy Sensing,Mental
+158,Crustacean Physiology,Physical
+159,Teleportation Hound,Physical
+160,Surfing on Cosmic Energy,Physical
+161,Power Cosmic,Energy
+162,Devour Worlds,Energy
+163,Matter Conversion,Energy
+164,Sorcery Supreme,Energy
+165,Science Mastery,Mental
+166,Diplomatic Immunity,Mental
+167,Radioactive Blood,Energy
+168,Gamma Strength,Physical
+169,Rage Empowerment,Physical
+170,Green Door Immortality,Physical
+171,Arc Reactor,Energy
+172,AI Assistant,Mental
+173,Nanotech Armor,Physical
+174,Wasp Stings,Energy
+175,Insect Communication,Mental
+176,Bio-Electric Energy,Energy
+177,Stinger Blasts,Energy
+178,Magic Hammer,Physical
+179,Worthiness Enchantment,Energy
+180,Godly Strength,Physical
+181,Asgardian Durability,Physical
+182,Longevity,Physical
+183,All-Speak,Mental
+184,Berserker Strength,Physical
+185,Odin Force,Energy
+186,Prehensile Tongue,Physical
+187,Wall Adherence,Physical
+188,Organic Webbing,Physical
+189,Venom Blast,Energy
+190,Bio-Electricity,Energy
+191,Silk Production,Physical
+192,Spider Camouflage,Physical
+193,Danger Sense,Mental
+194,Proportional Strength,Physical
+195,Enhanced Reflexes,Physical
+196,Equilibrium,Physical
+197,Photographic Reflexes,Mental
+198,Weapons Master,Physical
+199,Perfect Aim,Physical
+200,Aquatic Telepathy,Mental
+201,Hydrokinetic Constructs,Energy
