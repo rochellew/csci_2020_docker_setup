@@ -1,11 +1,9 @@
-version: '3.8'
-
 services:
     postgres:
         image: postgres:16
         container_name: course_db
         environment:
-            POSTGRES_USER: rook
+            POSTGRES_USER: student
             POSTGRES_PASSWORD: password123
             POSTGRES_DB: coursedb
         ports:
