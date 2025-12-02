@@ -1,4 +1,4 @@
-COPY comic_issues(
+COPY marvel.comic_issues(
     id,
     series_name,
     issue_number,
@@ -6,7 +6,7 @@ COPY comic_issues(
     publication_date
 )
 FROM '/docker-entrypoint-initdb.d/comic_issues.csv' WITH CSV HEADER;
-COPY characters(
+COPY marvel.characters(
     name,
     first_name,
     last_name,
@@ -16,9 +16,9 @@ COPY characters(
     team_affiliation
 )
 FROM '/docker-entrypoint-initdb.d/characters.csv' WITH CSV HEADER;
-COPY powers(id, power_name, power_type)
+COPY marvel.powers(id, power_name, power_type)
 FROM '/docker-entrypoint-initdb.d/powers.csv' WITH CSV HEADER;
-COPY character_powers(character_id, power_id, proficiency_level)
+COPY marvel.character_powers(character_id, power_id, proficiency_level)
 FROM '/docker-entrypoint-initdb.d/character_powers.csv' WITH CSV HEADER;
-COPY character_comics(character_id, comic_issue_id, first_appearance)
+COPY marvel.character_comics(character_id, comic_issue_id, first_appearance)
 FROM '/docker-entrypoint-initdb.d/character_comics.csv' WITH CSV HEADER;
