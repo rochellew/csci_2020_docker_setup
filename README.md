@@ -7,7 +7,7 @@ This repository provides all the necessary files to quickly set up a local datab
 Before starting, please ensure the following software is installed on your computer: 
 
 * [Docker Desktop](https://www.docker.com/products/docker-desktop): This application manages the containers. Make sure it is installed and running.
-* Git: Used to clone this repository.
+* [Git](https://git-scm.com/install/windows): Used to clone this repository.
 * A Database Client (Optional but Recommended): While you can use the command line, a visual tool makes database interaction easier. Recommended options include:
     * [Visual Studio Code](https://code.visualstudio.com) (recommended)
         * Install the *SQLTools* plugin by Matheus Teixeria
